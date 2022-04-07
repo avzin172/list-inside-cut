@@ -1,0 +1,7 @@
+title: Docs title
+href: index.yaml
+items:
+  - name: Page 1
+    href: section-one/page-1.md
+  - name: Page 2
+    href: section-two/page-2.md

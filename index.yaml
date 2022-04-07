@@ -1,0 +1,10 @@
+title: Docs title
+description: Docs description
+meta:
+  title: Метаданные
+  noIndex: true
+links:
+  - title: Page 1
+    href: section-one/page-1
+  - title: Page 2
+    href: section-two/page-2
